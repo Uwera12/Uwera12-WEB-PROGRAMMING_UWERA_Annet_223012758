@@ -30,7 +30,6 @@ include 'includes/header.php';
     <img src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&q=80" alt="Darry's Grand Hotel" style="width:100%;height:350px;object-fit:cover;border-radius:12px;" />
   </div>
 
-  
   <h2 class="section-title" style="margin-top:70px;">Our <span>History</span></h2>
   <div class="divider"></div>
 
@@ -67,7 +66,6 @@ include 'includes/header.php';
     </div>
   </div>
 
-  
   <h2 class="section-title" style="margin-top:70px;">Our <span>Team</span></h2>
   <div class="divider"></div>
   <div class="cards">
