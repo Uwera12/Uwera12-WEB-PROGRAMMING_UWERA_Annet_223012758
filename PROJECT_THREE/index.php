@@ -73,7 +73,7 @@ include 'includes/header.php';
         <div class="card-body">
           <h3>Darry's Signature Cocktail</h3>
           <p>House special: blue curaçao, elderflower, prosecco and a twist of lime zest.</p>
-          <p class="price">5,500 RWF</p>
+          <p class="price">8,000 RWF</p>
         </div>
       </div>
     </div>
