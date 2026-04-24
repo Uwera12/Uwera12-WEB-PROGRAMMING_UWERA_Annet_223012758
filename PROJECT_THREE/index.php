@@ -61,11 +61,11 @@ include 'includes/header.php';
         </div>
       </div>
       <div class="card">
-        <img class="card-img" src="https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=80" alt="Wagyu Tenderloin" style="width:100%;height:200px;object-fit:cover;" />
+        <img class="card-img" src="https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=80" alt="Beef Brochette" style="width:100%;height:200px;object-fit:cover;" />
         <div class="card-body">
-          <h3>Wagyu Tenderloin</h3>
-          <p>Premium wagyu beef, truffle jus, grilled asparagus and dauphinoise potatoes.</p>
-          <p class="price">22,000 RWF</p>
+          <h3>Beef Brochette</h3>
+          <p>Premium beef brochette, potatoes, mixed salade.</p>
+          <p class="price">11,500 RWF</p>
         </div>
       </div>
       <div class="card">
