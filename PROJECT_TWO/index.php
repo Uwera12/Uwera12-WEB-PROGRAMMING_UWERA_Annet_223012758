@@ -12,7 +12,7 @@
     }
 
     h2 {
-      text-align: right;
+      text-align: left;
       font-weight: bold;
       font-size: 18px;
       margin-bottom: 20px;
